@@ -1,13 +1,16 @@
 
-/* Your CSS Code here. */
-*{
-	margin: 8px;
-	padding: 0px;
-}
 div{
-	background-color: lightblue;
-	padding: 50px;
-	border: 15px solid blue;
-	width: 380px;
-	margin: 20px;
+	content:This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
+	width:300px;
+
+	padding:50px ;
+	background-color:lightblue;
+	border:15px solid blue;
+	margin:20px;
+	content: This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
+    width: 300px;
+    padding: 50px;
+    background-color: lightblue;
+    border: 15px solid blue;
+    margin: 20px;
 }
